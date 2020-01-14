@@ -3,5 +3,18 @@
  body{
 
  	font-family:'Ibarra Real Nova', serif;
- 	
+ 	overflow-x:hidden;
  }
+
+
+ .myfooter{
+ 	background-color:black;
+ 	padding:10px;
+ 	color:white;
+ 	text-align:center;
+ }
+
+ .menu{
+ 	background-color: #ffab4c ;
+ }
+© 2020 GitHub, Inc.
